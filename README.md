@@ -1,8 +1,14 @@
+
+
+
+
 # python-qt-app
 
 ## Demo
 
-https://user-images.githubusercontent.com/92110044/216817269-7932a1cc-8dee-47cb-996d-cdb781a467ae.mp4
+_loudish music warning_
+
+https://user-images.githubusercontent.com/92110044/232237995-95cebb84-a52a-474d-ae02-cea07e498121.mp4
 
 ## Info
 
